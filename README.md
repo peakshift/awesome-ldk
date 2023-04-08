@@ -1,12 +1,14 @@
 # Awesome LDK
 A curated list of LDK projects and resources
 
-## Wallets (Full Node on Device)
+## Mobile
 - Blue Wallet - https://bluewallet.io/
-- MutinyWallet - https://github.com/MutinyWallet
 - uMlando - https://github.com/ConorOkus/uMlando-wallet
 - Lipa - https://github.com/getlipa
 - Mercury Wallet - https://github.com/layer2tech/mercury-wallet/branches
+
+## Browser
+- MutinyWallet - https://github.com/MutinyWallet
 
 ## Node
 - Sensei - https://l2.technology/sensei
