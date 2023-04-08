@@ -42,5 +42,5 @@ A curated list of LDK projects and resources
 - Hydranet - https://hydranet.ai/
 
 ## Communities
-LDK Dicord Server - https://discord.gg/EcSM7a7aUs
-LDK Telegram Group - https://t.me/lightningdevkit
+- LDK Dicord Server - https://discord.gg/EcSM7a7aUs
+- LDK Telegram Group - https://t.me/lightningdevkit
