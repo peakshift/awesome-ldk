@@ -23,6 +23,10 @@ A curated list of LDK projects and resources
 - Lightning Signer (VLS) - https://gitlab.com/lightning-signer/docs/-/blob/master/README.md
 - DLCs (rust-dlc) - https://github.com/p2pderivatives/rust-dlc
 
+### React Native
+- https://github.com/BlueWallet/rn-ldk
+- https://github.com/synonymdev/react-native-ldk
+
 ## Router
 - Kuutamo - https://github.com/kuutamolabs/lightning-knd
 - Sensei - https://l2.technology/sensei
