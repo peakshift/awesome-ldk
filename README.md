@@ -32,7 +32,7 @@ A curated list of LDK projects and resources
 - Valera - https://valera.co/
 - Voltage - https://voltage.io/
 
-## LN Service Providers (LSP)
+## Lightning Service Providers (LSP)
 - C= - https://cequals.xyz/
 
 ## Smart Contract Platforms
@@ -46,3 +46,7 @@ A curated list of LDK projects and resources
 ## Communities
 - LDK Dicord Server - https://discord.gg/EcSM7a7aUs
 - LDK Telegram Group - https://t.me/lightningdevkit
+
+## Documentation
+- Official - https://lightningdevkit.org/introduction/
+- Introduction - https://bolt.fun/guide/architecture
