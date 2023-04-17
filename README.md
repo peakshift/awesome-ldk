@@ -6,6 +6,7 @@ A curated list of LDK projects and resources
 - uMlando - https://github.com/ConorOkus/uMlando-wallet
 - Lipa - https://github.com/getlipa
 - Mercury Wallet - https://github.com/layer2tech/mercury-wallet/branches
+- Bitkit - https://github.com/synonymdev/bitkit/
 
 ## Browser
 - MutinyWallet - https://github.com/MutinyWallet
